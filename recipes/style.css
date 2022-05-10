@@ -1,0 +1,74 @@
+.head{
+    background-color: orange;
+    display: grid;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    padding-left: 250px;
+    padding-right: 250px;
+
+}
+
+
+body{
+    background-color: lightgoldenrodyellow;
+    display: grid;
+    font-size: large;
+    font-weight: bold;
+}
+
+
+.center{
+    display: grid;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.des,
+.ing,
+.dire{
+    background-color: green;
+    display: grid;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    margin-right: auto;
+    padding: 15px;
+}
+
+.content{
+    display: grid;
+    background-color: aqua;
+    margin-right: auto;
+    padding: 15px;
+}
+
+
+.mother,
+.father{
+    display: grid;
+    background-color: bisque;
+    margin-right: 700px;
+    padding-left: 0;
+}
+
+.list{
+    display: grid;
+    background-color: white;
+    margin: 15px;
+    padding: 10px;
+}
+
+.ste{
+    display: grid;
+    background-color: brown;
+    margin: 15px;
+    padding: 10px;
+    color: white;
+}
